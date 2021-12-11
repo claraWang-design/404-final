@@ -1,0 +1,15 @@
+.Favorite:hover {
+    cursor: pointer;
+    background-color: white;
+}
+button {
+    background-color: black;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 16px;
+    color: white;
+}
+
+button:hover {
+    background-color: white;
+}

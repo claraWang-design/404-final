@@ -1,0 +1,35 @@
+.Home {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.image:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    
+}
+
+.card2{
+    margin-bottom: 20px;
+    position:relative;
+    border: none;
+}
+.image {
+    object-fit: cover;
+    height: 320px;
+    border-radius: 3px;
+}
+
+.group {
+    position: relative;
+}
+
+.favorite {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.text {
+    color: white;
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 50%);
+    font-family: sofia;
+}

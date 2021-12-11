@@ -1,0 +1,35 @@
+.Detail {
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    font-family: sofia;
+}
+.like {
+    border-radius: 8px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.img {
+    width: 100%;
+    border-radius: 8px;
+}
+h1 {
+    display: inline;
+
+}
+.group {
+    margin-top: 40px;
+    width: 100%;
+
+}
+.bttn {
+    border-radius: 8px;
+    padding: 10px 30px;
+}
+.bttn2 {
+    border-radius: 8px;
+    padding: 10px 30px;
+    position: absolute;
+    right: 0;
+}

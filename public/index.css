@@ -1,0 +1,8 @@
+@font-face {
+    font-family: sofia;
+    src: url(font/sofia.otf);
+  }
+
+body {
+    font-family: sofia;
+}
